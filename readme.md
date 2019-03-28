@@ -1,5 +1,5 @@
-# API REST Ingresse Dev Test Backend
-**Este projeto foi criado para teste de processo seletivo de desenvolvedor beckend da empresa Ingresse**
+# API REST
+**Este projeto foi criado para desenvolvimento backend de API Restfull**
 
 ## Pré requisitos de software
 * **Java 8**
